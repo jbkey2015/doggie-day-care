@@ -1,0 +1,17 @@
+{
+  "employee1": {
+    "firstName": "bob",
+    "lastName": "bob",
+    "phoneNumber": "6951615"
+  },
+  "employee2": {
+    "firstName": "jim",
+    "lastName": "jim",
+    "phoneNumber": "651626"
+  },
+  "employee3": {
+    "firstName": "tom",
+    "lastName": "tom",
+    "phoneNumber": "6351618"
+  }
+}
