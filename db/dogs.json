@@ -1,0 +1,20 @@
+{
+  "dog1": {
+    "imageUrl": "https://i.ytimg.com/vi/MPV2METPeJU/maxresdefault.jpg",
+    "name": "dog1",
+    "owner": "me",
+    "description": "its a dog"
+  },
+  "dog2": {
+    "imageUrl": "https://i.ytimg.com/vi/MPV2METPeJU/maxresdefault.jpg",
+    "name": "dog2",
+    "owner": "you",
+    "description": "its a dog"
+  },
+  "dog3": {
+    "imageUrl": "https://i.ytimg.com/vi/MPV2METPeJU/maxresdefault.jpg",
+    "name": "dog3",
+    "owner": "him",
+    "description": "its a dog"
+  }
+}
